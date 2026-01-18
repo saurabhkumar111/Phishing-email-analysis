@@ -1,5 +1,4 @@
-# Phase 1: Understanding Phishing (Theory)
-
+#  Understanding Phishing 
 ## Objective
 The purpose of this phase is to build a clear conceptual understanding of phishing attacks before performing any technical analysis. This ensures that the investigation is guided by threat awareness rather than tool dependency.
 
