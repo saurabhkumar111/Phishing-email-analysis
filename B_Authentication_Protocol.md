@@ -1,4 +1,4 @@
-# Phase 2: Email Authentication Protocols (Theory)
+#  Email Authentication Protocols 
 
 ## Objective
 The objective of this phase is to understand how email authentication mechanisms work to prevent spoofing and impersonation attacks. This theoretical foundation is essential to correctly interpret email headers during phishing analysis.
