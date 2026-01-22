@@ -8,12 +8,8 @@ The objective of this phase is to extract **key forensic indicators** from two e
 ## Email Samples Under Investigation
 
 - **Sample 1005 (.eml)**
-<img width="1370" height="897" alt="1005_output" src="https://github.com/user-attachments/assets/6b585a35-b03d-4e35-aef3-b66ae916e086" />
-
-
-
 - **Sample 1006 (.eml)**
-<img width="1301" height="892" alt="1006_eml_analyzer" src="https://github.com/user-attachments/assets/6e075c97-3511-4ce8-80a7-e609a7144714" />
+
 
 
 Both samples are analysed using the same methodology to ensure an unbiased and consistent comparison.
@@ -38,8 +34,11 @@ The EML Analyzer tool is used to parse raw `.eml` files and extract:
 Each `.eml` file was uploaded individually to the EML Analyzer tool, and the parsed output was reviewed for relevant indicators.
 
 📸 Screenshot evidence:
-- EML Analyzer output for Sample 1005  
-- EML Analyzer output for Sample 1006  
+- **EML Analyzer output for Sample 1005**
+<img width="1370" height="897" alt="1005_output" src="https://github.com/user-attachments/assets/6b585a35-b03d-4e35-aef3-b66ae916e086" />
+
+- **EML Analyzer output for Sample 1006** 
+<img width="1301" height="892" alt="1006_eml_analyzer" src="https://github.com/user-attachments/assets/6e075c97-3511-4ce8-80a7-e609a7144714" />
 
 ---
 
