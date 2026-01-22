@@ -8,9 +8,15 @@ The objective of this phase is to extract **key forensic indicators** from two e
 ## Email Samples Under Investigation
 
 - **Sample 1005 (.eml)**
-- **Sample 1006 (.eml)**
+<img width="1370" height="897" alt="1005_output" src="https://github.com/user-attachments/assets/6b585a35-b03d-4e35-aef3-b66ae916e086" />
 
-Both samples are analyzed using the same methodology to ensure an unbiased and consistent comparison.
+
+
+- **Sample 1006 (.eml)**
+<img width="1301" height="892" alt="1006_eml_analyzer" src="https://github.com/user-attachments/assets/6e075c97-3511-4ce8-80a7-e609a7144714" />
+
+
+Both samples are analysed using the same methodology to ensure an unbiased and consistent comparison.
 
 ---
 
@@ -102,15 +108,6 @@ URLs Present | Yes | Yes |
 
 ---
 
-## Important Notes
-
-- No IP reputation checks were performed in this phase
-- No URL behavior analysis was performed
-- No conclusions or classifications were made
-
-All extracted indicators will be validated and correlated in **Phase 4 and Phase 5** before determining whether either email is phishing.
-
----
 
 ## Phase Outcome
 
