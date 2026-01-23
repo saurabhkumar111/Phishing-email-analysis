@@ -70,7 +70,8 @@ DNS record absence suggests the subdomain is not intended for direct mail recept
 
 
 📸 Evidence:
--![Uploading image.png…]()
+<img width="1516" height="726" alt="image" src="https://github.com/user-attachments/assets/a4459c8b-f170-4005-91ff-90d4b407deb9" />
+
 
 
 ---
