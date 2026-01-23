@@ -117,6 +117,4 @@ This investigation demonstrates that:
 - Authentication posture, email structure, and behavioral indicators are critical
 - Final verdicts must be based on **correlation across multiple phases**
 
-This project reflects a **real-world SOC email investigation workflow** and emphasizes evidence-driven decision-making.
-
 ---
